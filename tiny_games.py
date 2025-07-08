@@ -12,7 +12,7 @@ while runnning:
         if event.type == pygame.QUIT:
             runnning = False
 # fill the window with a red coler
-    display_surface.fill('red')
+        display_surface.fill('red')
         pygame.display.update()
 
 pygame.quit
