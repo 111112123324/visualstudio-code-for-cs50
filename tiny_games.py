@@ -12,5 +12,7 @@ while runnning:
         if event.type == pygame.QUIT:
             runnning = False
 
+pygame.quite()
+
 
 
