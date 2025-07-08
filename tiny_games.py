@@ -7,7 +7,7 @@ display_surface = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 
 while TRUE:
     # event loop
-    for event
+    for event in pygame.event.get()
 
 
 
