@@ -11,8 +11,9 @@ while runnning:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             runnning = False
+# fill the window with a red coler
+#draw the game 
+        pygame.display.update()
 
-pygame.quite()
-
-
+pygame.quit
 
